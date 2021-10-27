@@ -32,7 +32,7 @@ cycler==0.10.0
 cymem==1.31.2
 Cython==0.29.6
 cytoolz==0.8.2
-dask==2.1.0
+dask==2021.10.0
 decorator==4.3.0
 defusedxml==0.6.0
 dill==0.2.7.1
