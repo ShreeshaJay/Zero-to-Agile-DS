@@ -36,7 +36,7 @@ dask==2.1.0
 decorator==4.3.0
 defusedxml==0.6.0
 dill==0.2.7.1
-distributed==2.1.0
+distributed==2021.10.0
 docutils==0.14
 eli5==0.8.2
 en-core-web-sm==2.0.0
