@@ -100,7 +100,7 @@ matplotlib==2.2.2
 mecab-python3==0.996.5
 MechanicalSoup==0.8.0
 missingno==0.4.1
-mistune==0.8.3
+mistune==2.0.3
 mizani==0.4.4
 mkl-fft==1.0.10
 mkl-random==1.0.2
